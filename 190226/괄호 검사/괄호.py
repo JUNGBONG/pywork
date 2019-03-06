@@ -7,5 +7,6 @@ T = int(input())
 for tc in range(1,T+1):
     word = input()
     stack = []
+    for i in word:
 
     print(f'#{tc} {result}')
