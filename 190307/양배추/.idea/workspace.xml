@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4312166-2a47-4ab4-8540-b5392b6c97bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../190307/농작물수확하기/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../간단한369/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../간단한369/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../단어2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../단어2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../단어2/단어2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../단어2/단어2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../도마도마토/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../도마도마토/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ecc99fea-214b-4c49-a075-2e5a1e3276e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../농작물수확하기/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../190306/간단한369/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../190306/간단한369/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../190306/단어2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../190306/단어2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../190306/단어2/단어2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../190306/단어2/단어2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../190306/도마도마토/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../190306/도마도마토/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../190306/스도쿠검증/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../190306/스도쿠검증/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/스도쿠검증.py">
+        <entry file="file://$PROJECT_DIR$/양배추.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="96">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -39,15 +39,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/스도쿠검증.py" />
+        <option value="$PROJECT_DIR$/양배추.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="366" />
-    <option name="y" value="225" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -59,8 +59,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="스도쿠검증" type="b2602c69:ProjectViewProjectNode" />
-              <item name="스도쿠검증" type="462c0819:PsiDirectoryNode" />
+              <item name="양배추" type="b2602c69:ProjectViewProjectNode" />
+              <item name="양배추" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -89,19 +89,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d4312166-2a47-4ab4-8540-b5392b6c97bb" name="Default Changelist" comment="" />
-      <created>1551856878560</created>
+      <changelist id="ecc99fea-214b-4c49-a075-2e5a1e3276e8" name="Default Changelist" comment="" />
+      <created>1551947856083</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551856878560</updated>
+      <updated>1551947856083</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="366" y="225" width="1400" height="1000" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -121,10 +121,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/스도쿠검증.py">
+    <entry file="file://$PROJECT_DIR$/양배추.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="96">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
